@@ -18,12 +18,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![status](https://api.statusbadges.me/badge/status/449613814049275905?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/449613814049275905)
+![vscode](https://api.statusbadges.me/badge/vscode/449613814049275905)
+
 
 
 
@@ -34,19 +32,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">BENZORICH</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    DUMMY DUMMY
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>DUMMY DUMMY
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://benzorich.de">Webseite</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://discord.gg/sovaradesign">Sovara Design</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://discord.gg/Z44JwcGJ">Sovara Service</a>
   </p>
 </div>
 
