@@ -34,7 +34,7 @@
   <p align="center">
     DUMMY DUMMY
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>DUMMY DUMMY
+    <a href="Https://benzorich.de"><strong>DUMMY DUMMY
     <br />
     <br />
     <a href="https://benzorich.de">Webseite</a>
