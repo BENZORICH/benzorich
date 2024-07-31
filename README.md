@@ -21,6 +21,8 @@
 ![status](https://api.statusbadges.me/badge/status/449613814049275905?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/449613814049275905)
 ![vscode](https://api.statusbadges.me/badge/vscode/449613814049275905)
+![spotify](https://api.statusbadges.me/badge/spotify/449613814049275905)
+
 
 <!-- PROJECT LOGO -->
 <br />
