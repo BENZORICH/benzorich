@@ -48,14 +48,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About me
 
-DUMMY TEXT
+Hi, I’m Benzo! I’m 20 years old and from Germany. I enjoy exploring new things, learning, and always trying to improve myself. In my free time, you’ll likely find me pursuing my hobbies or discovering new interests. Feel free to reach out if you want to connect!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Dummy
+- [x] Sovara Desi
 - [x] Dummy
 - [ ] Dummy
     - [ ] Dummy
