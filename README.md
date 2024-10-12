@@ -55,10 +55,8 @@ Hi, I’m Benzo! I’m 20 years old and from Germany. I enjoy exploring new thin
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Sovara Desi
 - [x] Dummy
 - [ ] Dummy
-    - [ ] Dummy
     - [ ] Dummy
 
 <!-- CONTACT -->
