@@ -40,8 +40,7 @@
     <a href="https://benzorich.de">Webseite</a>
     ·
     <a href="https://discord.gg/sovaradesign">Sovara Design</a>
-    ·
-    <a href="https://discord.gg/Z44JwcGJ">Sovara Service</a>
+    
   </p>
 </div>
 
