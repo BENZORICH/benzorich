@@ -18,9 +18,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![status](https://api.statusbadges.me/badge/status/449613814049275905?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/449613814049275905)
-![vscode](https://api.statusbadges.me/badge/vscode/449613814049275905)
+<!-- ![status](https://api.statusbadges.me/badge/status/449613814049275905?simple=true) -->
+<!-- ![playing](https://api.statusbadges.me/badge/playing/449613814049275905) -->
+<!-- ![vscode](https://api.statusbadges.me/badge/vscode/449613814049275905) -->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -32,9 +32,7 @@
   <h3 align="center">BENZORICH</h3>
 
   <p align="center">
-    DUMMY DUMMY
-    <br />
-    <a href="Https://benzorich.de"><strong>DUMMY DUMMY
+    Europe/Germany
     <br />
     <br />
     <a href="https://benzorich.de">Webseite</a>
