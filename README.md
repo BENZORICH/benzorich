@@ -7,8 +7,6 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benzorich)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!-- PROJECT SHIELDS -->
 <!--
