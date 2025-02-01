@@ -33,7 +33,7 @@
     Europe/Germany
     <br />
     <br />
-    <a href="https://benzorich.de">Webseite</a>
+    <a href="https://benzorich.de">Website</a>
     ·
     <a href="https://discord.gg/sovaradesign">Sovara Design</a>
     
