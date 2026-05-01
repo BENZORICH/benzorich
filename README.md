@@ -35,11 +35,11 @@ Focused on full-stack development, Discord bots, automation and modern backend s
   <img src="https://icons.benzorich.de/icons?i=nodejs" height="48" alt="Node.js" />
   <img src="https://icons.benzorich.de/icons?i=postgres" height="48" alt="PostgreSQL" />
   <img src="https://icons.benzorich.de/icons?i=cloudflare" height="48" alt="Cloudflare" />
+  <img src="https://icons.benzorich.de/icons?i=railway" height="48" alt="Railway" />
   <img src="https://icons.benzorich.de/icons?i=vercel" height="48" alt="Vercel" />
   <img src="https://icons.benzorich.de/icons?i=github" height="48" alt="GitHub" />
   <img src="https://icons.benzorich.de/icons?i=vscode" height="48" alt="VS Code" />
   <img src="https://icons.benzorich.de/icons?i=git" height="48" alt="Git" />
-  <img src="https://icons.benzorich.de/icons?i=railway-dark" height="48" alt="Railway" />
 </p>
 
 ## Focus
