@@ -28,18 +28,18 @@ Focused on full-stack development, Discord bots, automation and modern backend s
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloudflare" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
-  <img src="https://cdn.simpleicons.org/railway/0B0D0E" height="48" alt="Railway" />
+  <img src="https://icons.benzorich.de/icons?i=ts" height="48" alt="TypeScript" />
+  <img src="https://icons.benzorich.de/icons?i=js" height="48" alt="JavaScript" />
+  <img src="https://icons.benzorich.de/icons?i=python" height="48" alt="Python" />
+  <img src="https://icons.benzorich.de/icons?i=nextjs" height="48" alt="Next.js" />
+  <img src="https://icons.benzorich.de/icons?i=nodejs" height="48" alt="Node.js" />
+  <img src="https://icons.benzorich.de/icons?i=postgres" height="48" alt="PostgreSQL" />
+  <img src="https://icons.benzorich.de/icons?i=cloudflare" height="48" alt="Cloudflare" />
+  <img src="https://icons.benzorich.de/icons?i=vercel" height="48" alt="Vercel" />
+  <img src="https://icons.benzorich.de/icons?i=github" height="48" alt="GitHub" />
+  <img src="https://icons.benzorich.de/icons?i=vscode" height="48" alt="VS Code" />
+  <img src="https://icons.benzorich.de/icons?i=git" height="48" alt="Git" />
+  <img src="https://icons.benzorich.de/icons?i=railway-dark" height="48" alt="Railway" />
 </p>
 
 ## Focus
