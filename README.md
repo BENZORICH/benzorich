@@ -14,8 +14,6 @@
 <p align="center">
   <a href="https://benzorich.de">Website</a>
   ·
-  <a href="https://discord.gg/sovaradesign">Sovara Design</a>
-  ·
   <a href="https://www.threads.net/@benzorichx">Threads</a>
 </p>
 
@@ -34,6 +32,7 @@ Focused on full-stack development, Discord bots, automation and modern backend s
   <img src="https://icons.benzorich.de/icons?i=nextjs" height="48" alt="Next.js" />
   <img src="https://icons.benzorich.de/icons?i=nodejs" height="48" alt="Node.js" />
   <img src="https://icons.benzorich.de/icons?i=postgres" height="48" alt="PostgreSQL" />
+  <img src="https://icons.benzorich.de/icons?i=redis" height="48" alt="Redis" />
   <img src="https://icons.benzorich.de/icons?i=cloudflare" height="48" alt="Cloudflare" />
   <img src="https://icons.benzorich.de/icons?i=railway" height="48" alt="Railway" />
   <img src="https://icons.benzorich.de/icons?i=vercel" height="48" alt="Vercel" />
@@ -58,7 +57,6 @@ Focused on full-stack development, Discord bots, automation and modern backend s
 ## Connect
 
 - Website: [benzorich.de](https://benzorich.de)
-- Discord: [discord.gg/sovaradesign](https://discord.gg/sovaradesign)
 - Threads: [@benzorichx](https://www.threads.net/@benzorichx)
 
 ---
